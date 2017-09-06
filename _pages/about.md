@@ -16,7 +16,7 @@ news: true
 social: true
 ---
 
-Hi My name is Am Dan, I am best gengi player NA. You can find me slaughtering noobs and getting carried by Am Cotton regularly. 
+Hi My name is Am Dan, I am best gengi player NA. You can find me slaughtering noobs and getting carried by Am Cotton regularly. I am Also a Witch studying the dark arts. 
 
 Write your biography here. Tell the world about yourself. Link to your favorite [subreddit](http://reddit.com){:target="\_blank"}. You can put a picture in, too. The code is already in, just name your picture `prof_pic.jpg` and put it in the `img/` folder.
 

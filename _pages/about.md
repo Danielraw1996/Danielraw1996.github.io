@@ -1,12 +1,12 @@
 ---
 layout: about
 permalink: /
-title: <strong>Your</strong> Name
-description: <a href="">Affiliations</a>. Address. Contacts. Moto. Etc.
+title: <strong>Daniel</strong> Raw
+description: <a href="">BAMF</a>. Bad. Ass. Mother. Fun.
 
 profile:
   align: right
-  image: pp.png
+  image: pp.PNG
   address: >
     <p>555 your office number</p>
     <p>123 your address street</p>

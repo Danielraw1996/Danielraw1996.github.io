@@ -6,7 +6,7 @@ description: <a href="">Affiliations</a>. Address. Contacts. Moto. Etc.
 
 profile:
   align: right
-  image: prof_pic.jpg
+  image: pp.jpg
   address: >
     <p>555 your office number</p>
     <p>123 your address street</p>
@@ -15,6 +15,8 @@ profile:
 news: true
 social: true
 ---
+
+Hi My name is Am Dan, I am best gengi player NA. You can find me slaughtering noobs and getting carried by Am Cotton regularly. 
 
 Write your biography here. Tell the world about yourself. Link to your favorite [subreddit](http://reddit.com){:target="\_blank"}. You can put a picture in, too. The code is already in, just name your picture `prof_pic.jpg` and put it in the `img/` folder.
 

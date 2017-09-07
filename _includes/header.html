@@ -38,11 +38,10 @@
        <div class="responsive-menu">
         <ul>
            <li class="droplist"><a class="page-links" href="{{ site.baseurl | prepend: site.url }}/">about</a></li>
-           <li class="droplist"><a class="page-links" href="{{ '/blog/' | prepend: site.baseurl | prepend: site.url }}">blog</a></li>
+           
 
            {% for page in site.pages %}
           {% if page.title and page.url != "/" %}
-            <li class="droplist"><a class="page-links" href="{{ page.url | prepend: site.baseurl | prepend: site.url }}">{{ page.title }}</a></li>
             <li class="droplist"><a class="page-links" href="{{ page.url | prepend: site.baseurl | prepend: site.url }}">{{ page.title }}</a></li>
           {% endif %}
         {% endfor %}

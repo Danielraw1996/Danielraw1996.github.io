@@ -1,8 +1,8 @@
----
+a---
 layout: about
 permalink: /
 title: <strong>Daniel</strong> Raw
-description: <a href="">BAMF</a>. Bad. Ass. Mother. Fun.
+description: <a href="">Chemical Engineering</a>.
 
 profile:
   align: right
@@ -16,7 +16,7 @@ news: true
 social: true
 ---
 
-Hi My name is Am Dan, I am best gengi player NA. You can find me slaughtering noobs and getting carried by Am Cotton regularly. I am Also a Witch studying the dark arts. 
+Hi, my name is Daniel Raw. I am 21 years old and have lived in Vancouver for my whole life. I am currently in my 4th year of Process Chemical Engineering at UBC. 
 
 Write your biography here. Tell the world about yourself. Link to your favorite [subreddit](http://reddit.com){:target="\_blank"}. You can put a picture in, too. The code is already in, just name your picture `prof_pic.jpg` and put it in the `img/` folder.
 

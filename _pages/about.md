@@ -18,9 +18,10 @@ social: true
 <script src="{{ '/assets/js/jquery-3.2.1.min.js' | prepend: site.baseurl | prepend: site.url }}"></script>
 
 
-I am a *Chemical* and Biological __Engineer__ with focus on __design__ and __instrumentation__ using *Solidworks* and *Inventor*. Furthermore, I am developing strong foundations in __frontend__ and __backend__ programming such as *HTML*, *CSS*, *ruby*, and *python*.
+I am a 4th year Chemical and Biological Engineering student at UBC, with a specialization in Process Control. 
 
-On the side, I enjoy __tinkering__ with electronics and microcontrollers to __automate__ random things in the house as well as burning my fingers
+Aside from my studies, I enjoy working in the lab and making projects, some of which are shown in the project panel on this site.
 
-In my spare time I __practice__ martial arts and play video games. **~cheers!**
+In my free time, I play tennis for the UBC Mens's Tennis Team, and try and get on my mountain bike as often as possible. **~cheers!**
+
 

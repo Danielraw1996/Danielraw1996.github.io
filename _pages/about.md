@@ -1,7 +1,7 @@
 ---
 layout: about
 permalink: /
-title: <strong>Ngai To</strong> Lo
+title: <strong>Daniel</strong> Raw
 description: Chemical and Biological Engineering. 
 
 profile:

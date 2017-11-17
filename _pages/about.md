@@ -22,6 +22,7 @@ I am a 4th year Chemical and Biological Engineering student at UBC, with a speci
 
 Aside from my studies, I enjoy working in the lab and making projects, some of which are shown in the project panel on this site.
 
-In my free time, I play tennis for the UBC Mens's Tennis Team, and try and get on my mountain bike as often as possible. **ito is a big bitch**
+In my free time, I play tennis for the UBC Mens's Tennis Team, and try and get on my mountain bike as often as possible. 
+**ito is a big bitch**
 
 

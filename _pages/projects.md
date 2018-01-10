@@ -1,6 +1,6 @@
 ---
 layout: page
-title: Projects
+title: projects
 permalink: /Projects/
 description: A collection of my personal projects.
 ---

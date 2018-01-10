@@ -1,7 +1,7 @@
 ---
 layout: page
-title: Superconductor Track
-description: a project with a background image
+title: Magnet Track
+description: A strong magnet track to levitate superconductors
 img: /assets/img/12.jpg
 ---
 

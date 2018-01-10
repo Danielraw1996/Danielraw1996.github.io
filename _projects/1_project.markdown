@@ -5,16 +5,7 @@ description: A strong magnet track to levitate superconductors
 img: /assets/img/Maglev.jpeg
 ---
 
-Every project has a beautiful feature shocase page. It's easy to include images, in a flexible 3-column grid format. Make your photos 1/3, 2/3, or full width.
-
-To give your project a background in the portfolio page, just add the img tag to the front matter like so:
-
-    ---
-    layout: page
-    title: Project
-    description: a project with a background image
-    img: /assets/img/12.jpg
-    ---
+The Maglev track is a pattern of carefully orientated neodymium magnets. The magnetic field emitted from the track is that the edges are repulsive and the middle is attractive. This then traps a superconductor in it's field, seemingly levitating it. While this is true, it's not quite the whole story. Levitation has connotations of repelling gravity, however the superconductor isn't simply being repelled from the track, it's actually pinned in that spot through a phenomena called "flux pinning". This can occur through an interesting property of superconductors, which is that all magnetic fields completely pass through the material. This means that the flux lines passing through it can "lock" it in a specific position, only able to move horizontally across the track.
 
 
 <div class="img_row">

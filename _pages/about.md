@@ -1,5 +1,5 @@
 ---
-layout: About
+layout: about
 permalink: /
 title: <strong>Daniel</strong> Raw
 description: Chemical and Biological Engineering. 

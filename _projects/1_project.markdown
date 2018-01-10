@@ -7,17 +7,9 @@ img: /assets/img/Maglev.jpeg
 
 The Maglev track is a pattern of carefully orientated neodymium magnets. The magnetic field emitted from the track is that the edges are repulsive and the middle is attractive. This then traps a superconductor in it's field, seemingly levitating it. While this is true, it's not quite the whole story. Levitation has connotations of repelling gravity, however the superconductor isn't simply being repelled from the track, it's actually pinned in that spot through a phenomena called "flux pinning". This can occur through an interesting property of superconductors, which is that all magnetic fields completely pass through the material. This means that the flux lines passing through it can "lock" it in a specific position, only able to move horizontally across the track.
 
-
-<div class="img_row">
-    <img class="col one" src="{{ site.baseurl }}/assets/img/1.jpg" alt="" title="example image"/>
-    <img class="col one" src="{{ site.baseurl }}/assets/img/2.jpg" alt="" title="example image"/>
-    <img class="col one" src="{{ site.baseurl }}/assets/img/3.jpg" alt="" title="example image"/>
-</div>
-<div class="col three caption">
-    Caption photos easily. On the left, a road goes through a tunnel. Middle, leaves artistically fall in a hipster photoshoot. Right, in another hipster photoshoot, a lumberjack grasps a handful of pine needles.
 </div>
 <div class="img_row">
-    <img class="col three" src="{{ site.baseurl }}/assets/img/5.jpg" alt="" title="example image"/>
+    <img class="col three" src="{{ site.baseurl }}/assets/img/track.jpeg" alt="" title="example image"/>
 </div>
 <div class="col three caption">
     This image can also have a caption. It's like magic.

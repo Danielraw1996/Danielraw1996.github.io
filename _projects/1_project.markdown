@@ -12,6 +12,6 @@ The Maglev track is a pattern of carefully orientated neodymium magnets. The mag
     <img class="col three" src="{{ site.baseurl }}/assets/img/track.jpeg" alt="" title="example image"/>
 </div>
 <div class="col three caption">
-    This image can also have a caption. It's like magic.
+    A top-down view of the track.
 </div>
 

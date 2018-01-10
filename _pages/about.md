@@ -18,7 +18,7 @@ social: true
 <script src="{{ '/assets/js/jquery-3.2.1.min.js' | prepend: site.baseurl | prepend: site.url }}"></script>
 
 
-I am a 4th year Chemical and Biological Engineering student at UBC, with a specialization in Process Control. 
+I am a 4th year Chemical and Biological Engineering student at UBC, with a specialization in Process Control. I'm also supplementing this degree with additional courses in General Relativity and Quantum Mechanics. 
 
 Aside from my studies, I enjoy working in the lab and making projects, some of which are shown in the project panel on this site.
 

@@ -1,9 +1,14 @@
 ---
 layout: page
-title: Project 2
-description: a project with a background image
+title: Hydrogen Fuel Generator
+description: Electroylsis of water to create H2 fuel
 img: /assets/img/2.jpg
 ---
+
+The hydrogen fuel generator is currently a work in progress, as the generator plates have been machined, however the acrylic casing and bubbler hasn't been built. Additionally, the 1M sodium hydroxide solution is prepared and tested. The process in which hydrogen fuel is produced is through the electrolysis of steel plates. When an eletric current is passed through the plates, the steel undergoes a replacement with the sodium in the NaOH solution.
+
+
+
 
 Every project has a beautiful feature shocase page. It's easy to include images, in a flexible 3-column grid format. Make your photos 1/3, 2/3, or full width.
 

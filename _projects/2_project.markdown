@@ -12,5 +12,5 @@ The hydrogen fuel generator is currently a work in progress, as the generator pl
     <img class="col three" src="{{ site.baseurl }}/assets/img/HDgen.jpg" alt="" title="example image"/>
 </div>
 <div class="col three caption">
-    This image can also have a caption. It's like magic.
+    The sanded electrode of the generator.
 </div>

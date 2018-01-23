@@ -10,5 +10,5 @@ Using a 10000V transformer, Helium gas is ionized within a gas tube!
     <img class="col three" src="{{ site.baseurl }}/assets/img/Ion.jpg" alt="" title="example image"/>
 </div>
 <div class="col three caption">
-    This image can also have a caption. It's like magic.
+    Gas-Ionization
 </div>

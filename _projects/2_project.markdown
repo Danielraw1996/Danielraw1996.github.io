@@ -10,7 +10,7 @@ The hydrogen fuel generator is currently a work in progress, as the generator pl
 
 </div>
 <div class="img_row">
-    <img class="col three" src="{{ site.baseurl }}/assets/img/HGen.jpg" alt="" title="example image"/>
+    <img class="col three" src="{{ site.baseurl }}/assets/img/HJen.jpg" alt="" title="example image"/>
 </div>
 <div class="col three caption">
     This image can also have a caption. It's like magic.

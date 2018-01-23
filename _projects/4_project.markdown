@@ -1,7 +1,7 @@
 ---
 layout: page
-title: Project 4
-description: another without an image
+title: Gas Ionization
+description: Helium gas ionized!
 img: /assets/img/Ion.jpg
 ---
 Using a 10000V transformer, Helium gas is ionized within a gas tube!

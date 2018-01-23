@@ -11,6 +11,6 @@ When a speaker is driven, it pulses at certain frequencies, which correlates to 
     <img class="col three" src="{{ site.baseurl }}/assets/img/Ch1.jpg" alt="" title="example image"/>
 </div>
 <div class="col three caption">
-    This image can also have a caption. It's like magic.
+    Resonant Freqency at 957Hz
 </div>
 
